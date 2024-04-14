@@ -1,8 +1,10 @@
 {
-  "hash": "1ac76dd153313475f915c55f8fe67770",
+  "hash": "11a8e50db2ff48993a44d52dcf7f684d",
   "result": {
-    "markdown": "---\ntitle: \"Data Visualization\"\n---\n\n\n```         \n```\n\n\n::: {.cell}\n\n:::\n\n\n`<iframe height=\"400\" width=\"100%\" frameborder=\"no\" src=\"https://yscheryl.shinyapps.io/myshinyapp/\"`{=html}\n\n</iframe>\n\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Data Visualization\"\n---\n\n\n```         \n```\n\n\n::: {.cell}\n\n:::\n\n\n`<iframe height=\"400\" width=\"100%\" frameborder=\"no\" src=\"https://yscheryl.shinyapps.io/myshinyapp/\"`{=html}\n\n</iframe>\n",
+    "supporting": [
+      "datavisualization_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
