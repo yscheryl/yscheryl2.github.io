@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "yscheryl.github.io"
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: datavisualization.qmd
+        text: Data Visualization
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
