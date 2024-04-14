@@ -1,14 +1,14 @@
 {
-    "id": "2BFE599C",
-    "path": "~/yscheryl.github.io/myshinyapp/datavisualization.qmd",
-    "project_path": "myshinyapp/datavisualization.qmd",
+    "id": "D25E1B4B",
+    "path": "~/yscheryl.github.io/home.qmd",
+    "project_path": "home.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1713109539588.0,
+    "created": 1713112369706.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 4,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "145:171.3333282470703"
+        "rmdVisualModeLocation": "23:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713109546,
+    "lastKnownWriteTime": 1713111428,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713110318055,
+    "last_content_update": 1713111428,
     "read_only": false,
     "read_only_alternatives": []
 }
