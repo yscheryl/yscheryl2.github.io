@@ -1,0 +1,14 @@
+{
+  "hash": "11a8e50db2ff48993a44d52dcf7f684d",
+  "result": {
+    "markdown": "---\ntitle: \"Data Visualization\"\n---\n\n\n```         \n```\n\n\n::: {.cell}\n\n:::\n\n\n`<iframe height=\"400\" width=\"100%\" frameborder=\"no\" src=\"https://yscheryl.shinyapps.io/myshinyapp/\"`{=html}\n\n</iframe>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

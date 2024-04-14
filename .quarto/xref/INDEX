@@ -1,0 +1,29 @@
+{
+  "about.qmd": {
+    "about.html": "3ad25626"
+  },
+  "datastory.qmd": {
+    "datastory.html": "d5d3fe50"
+  },
+  "index.qmd": {
+    "index.html": "273a4960"
+  },
+  "datastory1.qmd": {
+    "datastory1.html": "c4f94bdd"
+  },
+  "characteristics1.qmd": {
+    "characteristics1.html": "75c75d1c"
+  },
+  "datavisualization.qmd": {
+    "datavisualization.html": "c03937d5"
+  },
+  "home.qmd": {
+    "home.html": "5a143db1"
+  },
+  "myshinyapp/datavisualization.qmd": {
+    "datavisualization.html": "542c8951"
+  },
+  "myshinyapp/home.qmd": {
+    "home.html": "44c0d0b7"
+  }
+}
