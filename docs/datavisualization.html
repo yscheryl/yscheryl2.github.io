@@ -101,7 +101,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#choice-of-data-visualization" id="toc-choice-of-data-visualization" class="nav-link active" data-scroll-target="#choice-of-data-visualization"><u><strong>Choice of data visualization</strong></u></a></li>
+  <li><a href="#analysis-of-data-visualization" id="toc-analysis-of-data-visualization" class="nav-link" data-scroll-target="#analysis-of-data-visualization"><u><strong>Analysis of data visualization</strong></u></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -127,34 +134,45 @@ ul.task-list li input[type="checkbox"] {
 <p><iframe height="400" width="100%" frameborder="no" src="https://yscheryl.shinyapps.io/myshinyapp/" <="" p="">
 </iframe>
 </p><p><strong><em>Data source</em></strong>: https://www.kaggle.com/datasets/paakhim10/taylor-swift-the-myth-the-legend?resource=download</p>
-<p><u><strong>Choice of data visualization</strong></u></p>
-<p><strong><em>Characteristics of albums</em></strong></p>
+<section id="choice-of-data-visualization" class="level3">
+<h3 class="anchored" data-anchor-id="choice-of-data-visualization"><u><strong>Choice of data visualization</strong></u></h3>
+<section id="characteristics-of-albums" class="level4">
+<h4 class="anchored" data-anchor-id="characteristics-of-albums"><strong><em>Characteristics of albums</em></strong></h4>
 <p>The dataset presented provided a number of music characteristics, of which I chose 3 defining characteristics to visualize her music.</p>
 <ol type="1">
-<li><strong>Danceability</strong></li>
+<li><strong>Danceability</strong>: How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. Quantified a scale of 0.0 (least danceable) to 1.0 (most danceable).</li>
 </ol>
-<ul>
-<li><p>How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity.</p></li>
-<li><p>Quantified a scale of 0.0 (least danceable) to 1.0 (most danceable).</p></li>
-</ul>
+<!-- -->
 <ol start="2" type="1">
-<li><strong>Tempo</strong></li>
+<li><strong>Tempo</strong>: The speed or pace of a given piece. Quantified through beats per minute (BPM).</li>
 </ol>
-<ul>
-<li><p>The speed or pace of a given piece.</p></li>
-<li><p>Quantified through beats per minute (BPM).</p></li>
-</ul>
+<!-- -->
 <ol start="3" type="1">
-<li><strong>Acousticness</strong></li>
+<li><strong>Acousticness</strong>: A confidence measure of whether the track is acoustic. Quantified on a scale of 0 (low confidence that the track is acoustic) to 1 (high confidence that the track is acoustic).</li>
 </ol>
-<ul>
-<li><p>A confidence measure of whether the track is acoustic.</p></li>
-<li><p>Quantified on a scale of 0 (low confidence that the track is acoustic) to 1 (high confidence that the track is acoustic).</p></li>
-</ul>
-<p><strong><em>Popularity of albums</em></strong></p>
+</section>
+<section id="popularity-of-albums" class="level4">
+<h4 class="anchored" data-anchor-id="popularity-of-albums"><strong><em>Popularity of albums</em></strong></h4>
 <p>The dataset presented provided the popularity of each song in her discography, quantified on a scale of 0 (least popular) to 100 (most popular). As each song was tagged to an album, a box plot is useful to show how the popularity data is distributed within each album, and if there are any outliers.</p>
+</section>
+</section>
+<section id="analysis-of-data-visualization" class="level3">
+<h3 class="anchored" data-anchor-id="analysis-of-data-visualization"><u><strong>Analysis of data visualization</strong></u></h3>
+<section id="danceability" class="level4">
+<h4 class="anchored" data-anchor-id="danceability"><em>Danceability</em></h4>
+<p>There is some variability in the albums’ danceability, with the highest danceability being 1989 (Taylor’s Version), followed by Midnights (Til The Dawn Edition), and Lover. On the other hand, Taylor Swift had the lowest level of danceability, followed by evermore (deluxe version) and folklore (deluxe version).</p>
+</section>
+<section id="acousticness" class="level4">
+<h4 class="anchored" data-anchor-id="acousticness">Acousticness</h4>
+<p>There is great variability in the albums’ acousticness, with evermore (deluxe version) having the highest level of acousticness, followed by folklore (deluxe version) and Midnights (Til The Dawn Edition). Meanwhile, the rest of the albums exhibited lower levels of acousticness, especially that of 1989 (Taylor’s version), Red (Taylor’s Version), reputation, and Taylor Swift.</p>
+</section>
+<section id="tempo" class="level4">
+<h4 class="anchored" data-anchor-id="tempo">Tempo</h4>
+<p>All albums have relatively high levels of tempo, with the highest being Fearless (Taylor’s Version) and the lowest being Taylor Swift.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
