@@ -1,14 +1,14 @@
 {
-    "id": "D25E1B4B",
-    "path": "~/yscheryl.github.io/home.qmd",
-    "project_path": "home.qmd",
+    "id": "C5E80A45",
+    "path": "~/yscheryl.github.io/datavisualization.qmd",
+    "project_path": "datavisualization.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "177769410",
     "contents": "",
     "dirty": false,
-    "created": 1713112369706.0,
+    "created": 1713112375525.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 5,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,14 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "200:100"
+        "rmdVisualModeLocation": "157:171.3333282470703"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713113247,
+    "lastKnownWriteTime": 1713109546,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713113247721,
+    "last_content_update": 1713109546,
     "read_only": false,
     "read_only_alternatives": []
 }

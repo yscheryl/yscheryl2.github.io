@@ -1,10 +1,8 @@
 {
-  "hash": "11a8e50db2ff48993a44d52dcf7f684d",
+  "hash": "c1ca1609ea0af6ae0f049e9d1b90645f",
   "result": {
-    "markdown": "---\ntitle: \"Data Visualization\"\n---\n\n\n```         \n```\n\n\n::: {.cell}\n\n:::\n\n\n`<iframe height=\"400\" width=\"100%\" frameborder=\"no\" src=\"https://yscheryl.shinyapps.io/myshinyapp/\"`{=html}\n\n</iframe>\n",
-    "supporting": [
-      "datavisualization_files"
-    ],
+    "markdown": "---\ntitle: \"Data Visualization\"\n---\n\n\n```         \n```\n\n\n::: {.cell}\n\n:::\n\n\n`<iframe height=\"400\" width=\"100%\" frameborder=\"no\" src=\"https://yscheryl.shinyapps.io/myshinyapp/\"`{=html}\n\n</iframe>\n\nData source: https://www.kaggle.com/datasets/paakhim10/taylor-swift-the-myth-the-legend?resource=download\n\n**Choice of data visualization**\n\n***Characteristics***\nThe dataset presented provided a number of music characteristics, of which I chose 3 defining characteristics to visualize her music.\n\n****1. Danceability****\n  - How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity.\n  - Quantified a scale of 0.0 (least danceable) to 1.0 (most danceable).\n\n****2. Tempo****\n  - The speed or pace of a given piece.\n  - Quantified through beats per minute (BPM).\n  \n****3. Acousticness****\n  - A confidence measure of whether the track is acoustic.\n  - Quantified on a scale of 0 (low confidence that the track is acoustic) to 1 (high confidence that the track is acoustic).",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
