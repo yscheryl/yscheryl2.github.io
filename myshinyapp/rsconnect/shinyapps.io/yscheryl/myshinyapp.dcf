@@ -5,7 +5,7 @@ account: yscheryl
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11617590
-bundleId: 8492315
+bundleId: 8495105
 url: https://yscheryl.shinyapps.io/myshinyapp/
 version: 1
 asMultiple: FALSE
