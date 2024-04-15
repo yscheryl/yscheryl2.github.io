@@ -18,28 +18,28 @@ title: "Data Visualization"
 
 [**Choice of data visualization**]{.underline}
 
-1.  ***Characteristics of albums***
+***Characteristics of albums***
 
 The dataset presented provided a number of music characteristics, of which I chose 3 defining characteristics to visualize her music.
 
-**Danceability**
+1.  **Danceability**
 
 -   How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity.
 
 -   Quantified a scale of 0.0 (least danceable) to 1.0 (most danceable).
 
-**Tempo**
+2.  **Tempo**
 
 -   The speed or pace of a given piece.
 
 -   Quantified through beats per minute (BPM).
 
-**Acousticness**
+3.  **Acousticness**
 
 -   A confidence measure of whether the track is acoustic.
 
 -   Quantified on a scale of 0 (low confidence that the track is acoustic) to 1 (high confidence that the track is acoustic).
 
-2.  ***Popularity of albums***
+***Popularity of albums***
 
 The dataset presented provided the popularity of each song in her discography, quantified on a scale of 0 (least popular) to 100 (most popular). As each song was tagged to an album, a box plot is useful to show how the popularity data is distributed within each album, and if there are any outliers.

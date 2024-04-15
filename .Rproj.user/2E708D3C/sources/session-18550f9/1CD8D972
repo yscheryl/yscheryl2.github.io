@@ -3,7 +3,7 @@
     "path": "~/yscheryl.github.io/datavisualization.qmd",
     "project_path": "datavisualization.qmd",
     "type": "quarto_markdown",
-    "hash": "1886860325",
+    "hash": "2065452540",
     "contents": "",
     "dirty": false,
     "created": 1713113017860.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "325:392",
+        "rmdVisualModeLocation": "482:400",
         "cursorPosition": "7,0",
         "scrollLine": "13"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713156848,
+    "lastKnownWriteTime": 1713169475,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713156851402,
+    "last_content_update": 1713169475504,
     "read_only": false,
     "read_only_alternatives": []
 }
