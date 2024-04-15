@@ -37,16 +37,34 @@ The dataset presented provided a number of music characteristics, of which I cho
 
 The dataset presented provided the popularity of each song in her discography, quantified on a scale of 0 (least popular) to 100 (most popular). As each song was tagged to an album, a box plot is useful to show how the popularity data is distributed within each album, and if there are any outliers.
 
+### [**Findings from data visualization**]{.underline}
+
+#### ***Danceability***
+
+There is some variability in the albums' danceability, with the highest danceability being *1989 (Taylor's Version)*, followed by *Midnights (Til The Dawn Edition)*, and *Lover*. On the other hand, *Taylor Swift* had the lowest level of danceability, followed by *evermore (deluxe version)* and *folklore (deluxe version)*.
+
+#### ***Acousticness***
+
+There is great variability in the albums' acousticness, with *evermore (deluxe version)* having the highest level of acousticness, followed by *folklore (deluxe version)* and *Midnights (Til The Dawn Edition).* Meanwhile, the rest of the albums exhibited lower levels of acousticness, especially that of *1989 (Taylor's version),* *Red (Taylor's Version)*, *reputation*, and *Taylor Swift*.
+
+#### ***Tempo***
+
+All albums have relatively high levels of tempo, with the highest being *Fearless (Taylor's Version)* and the lowest being *Taylor Swift.*
+
+#### ***Popularity***
+
+There is some variation in the popularity of each album. *reputation* has the highest median popularity, followed by *Lover*, while *Taylor Swift* has a much lower median popularity. The interquartile range is the highest in *Lover*, *reputation*, and *Red* *(Taylor's version)*, and the lowest in *folklore (deluxe edition)* and *evermore (deluxe edition).* Some of the albums have outliers, including *evermore (deluxe version)*, *Fearless (Taylor's Version)*, *Lover*, and *Taylor Swift*.
+
 ### [**Analysis of data visualization**]{.underline}
 
-#### *Danceability*
+#### ***Danceability and Popularity***
 
-There is some variability in the albums' danceability, with the highest danceability being 1989 (Taylor's Version), followed by Midnights (Til The Dawn Edition), and Lover. On the other hand, Taylor Swift had the lowest level of danceability, followed by evermore (deluxe version) and folklore (deluxe version).
+Albums with higher median popularity, such as *reputation* and *Lover*, tend to have higher levels of danceability, while albums with lower median popularity, such as *Taylor Swift,* have lower danceability. This could be because music of higher danceability levels appeal to a broader audeince, while those of lower danceability levels are more niche and are less mainstream amongst listeners.
 
-#### Acousticness
+#### ***Acousticness and Popularity***
 
-There is great variability in the albums' acousticness, with evermore (deluxe version) having the highest level of acousticness, followed by folklore (deluxe version) and Midnights (Til The Dawn Edition). Meanwhile, the rest of the albums exhibited lower levels of acousticness, especially that of 1989 (Taylor's version), Red (Taylor's Version), reputation, and Taylor Swift.
+Albums with a smaller interquartile range of popularity, such as *folklore (deluxe version)* and *evermore (deluxe version)*, score higher in terms of level of acousticness. On the other hand, albums with a higher interquartile range of popularity, such as *reputation* and *Red (Taylor's Version),* have lower levels of acousticness. A potential explanation is that different music of higher levels of acousticness tend to be enjoyed by the same audience due to the consistency in style, leading to a smaller interquartile range of popularity (i.e. the popularity of the songs do not vary so much). Meanwhile, music of lower levels of acousticness are not as consistent in how much they appeal to audiences, thus resulting in higher interquartile range of popularity (i.e. the popularity of the songs vary a lot).
 
-#### Tempo
+#### ***Overall***
 
-All albums have relatively high levels of tempo, with the highest being Fearless (Taylor's Version) and the lowest being Taylor Swift.
+Overall, the interplay between the characteristics of Swift's music and their popularity is very complex, and while characteristics like danceability, acousticness, and tempo may influence the appeal and popularity of the album, they are not the sole determining factors, as other considerations, such as marketing strategies, time of release, and cultural relevance play a huge part as well. Nonetheless, it is important and interesting to consider how there may be some correlation between these characteristics and the popularity of her music.
