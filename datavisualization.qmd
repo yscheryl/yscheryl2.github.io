@@ -15,6 +15,13 @@ title: "Data Visualization"
 
 ***Data source***: https://www.kaggle.com/datasets/paakhim10/taylor-swift-the-myth-the-legend?resource=download
 
+```{=html}
+<img src="taylorimage.png" alt="Caption" style="width: 450px; height: 300px; display: block; margin: 0 auto;">
+
+<figcaption style="text-align: center;">Figure 2: Taylor Swift performing her 'Speak Now' era at the Eras Tour.</figcaption>
+<br>
+```
+
 ### [**Choice of data visualization**]{.underline}
 
 #### ***Characteristics of albums***
@@ -23,14 +30,12 @@ The dataset presented provided a number of music characteristics, of which I cho
 
 1.  **Danceability**: How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. Quantified a scale of 0.0 (least danceable) to 1.0 (most danceable).
 
-```{=html}
 <!-- -->
-```
+
 2.  **Tempo**: The speed or pace of a given piece. Quantified through beats per minute (BPM).
 
-```{=html}
 <!-- -->
-```
+
 3.  **Acousticness**: A confidence measure of whether the track is acoustic. Quantified on a scale of 0 (low confidence that the track is acoustic) to 1 (high confidence that the track is acoustic).
 
 #### ***Popularity of albums***

@@ -3,7 +3,7 @@
     "path": "~/yscheryl.github.io/home.qmd",
     "project_path": "home.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2993909065",
     "contents": "",
     "dirty": false,
     "created": 1713113014664.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "22,3",
-        "scrollLine": "13",
-        "rmdVisualModeLocation": "1806:0"
+        "cursorPosition": "14,25",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "209:100"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713169477,
+    "lastKnownWriteTime": 1713173304,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713169477453,
+    "last_content_update": 1713173304253,
     "read_only": false,
     "read_only_alternatives": []
 }

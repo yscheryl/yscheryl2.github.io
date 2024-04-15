@@ -5,20 +5,16 @@ title: "Home"
 ```         
 ```
 
-**Self Introduction**
+### Hello!
+
 Hi! I'm Cheryl. I'm a NUS undergraduate studying Sociology and Communications & New Media. This is my webpage for my NM2207 final project.
 
-
-**Topic**
-How do the characteristics of Taylor Swift's music relate to her popularity?
-
-
-**Why Study This Topic?**
+### **WHO'S TAYLOR SWIFT ANYWAY? EW.**
 
 ```{=html}
-<img src="taylorimage.png" alt="Caption" style="width: 450px; height: 300px; display: block; margin: 0 auto;">
+<img src="taylorimage2.jpg" alt="Caption" style="width: 500px; height: 560.5px; display: block; margin: 0 auto;">
 
-<figcaption style="text-align: center;">Figure 1: Taylor Swift performing at the Eras Tour.</figcaption>
+<figcaption style="text-align: center;">Figure 1: Taylor Swift performing her 'Red' era at the Eras Tour.</figcaption>
 <br>
 ```
 It is undeniable that Taylor Swift has left a significant cultural impact in today’s society, evident not only through her numerous awards and Grammys, but also with her ongoing Eras Tour generating more than \$5 billion (Music Expert Expounds on Taylor Swift’s Unmatched Cultural Impact, n.d.).
@@ -27,8 +23,10 @@ Additionally, she recently became the first person to receive the title of Perso
 
 Thus, examining the characteristics of her music throughout the years will provide an understanding about what led to this phenomenal success.
 
-This leads us to the research question at hand: "How do the characteristics of Taylor Swift's music relate to her popularity?" To do this, I created 2 types of data visualization:
+### Research Question
+
+This leads us to the research question at hand: "**How do the characteristics of Taylor Swift's music relate to their popularity?**" To do this, I created 2 types of data visualization:
 
 1.  Bar plots to measure the characteristics of her albums, utilizing the characteristics of (1) Danceability, (2) Acousticness, and (3) Tempo.
 
-2.  Box plots to measure the popularity of her albums.
+2.  Box plots to measure the popularity of her songs, sorted by each album.
